@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemitOps.API", "RemitOps.API.csproj", "{1BCE0847-748F-0D2F-9601-301EC6098080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BCE0847-748F-0D2F-9601-301EC6098080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BCE0847-748F-0D2F-9601-301EC6098080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BCE0847-748F-0D2F-9601-301EC6098080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BCE0847-748F-0D2F-9601-301EC6098080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F35D339-8610-415A-BF0D-23637E8FAD6D}
+	EndGlobalSection
+EndGlobal

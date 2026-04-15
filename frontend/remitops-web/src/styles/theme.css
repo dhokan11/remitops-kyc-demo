@@ -1,0 +1,45 @@
+:root {
+  --brand-green: #4C9A2A;
+  --brand-green-dark: #2F6E1C;
+  --brand-green-deep: #173D10;
+  --brand-gold: #E3C315;
+  --brand-gold-dark: #C9A400;
+
+  --bg-page: #F7FAF5;
+  --bg-panel: #FFFFFF;
+  --bg-soft: #EEF5EA;
+  --bg-brand-soft: #EAF4E3;
+
+  --text-primary: #1C2A1A;
+  --text-secondary: #5A6B57;
+  --text-on-brand: #F5F7F2;
+
+  --border-soft: #D9E7D4;
+  --border-strong: #BFD3B8;
+
+  --success: #2EAD5B;
+  --warning: #D9A400;
+  --danger: #C94B4B;
+  --info: #2F8F7A;
+
+  --shadow-soft: 0 12px 30px rgba(18, 45, 12, 0.10);
+  --shadow-medium: 0 20px 50px rgba(18, 45, 12, 0.16);
+
+  --radius-sm: 10px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+
+  --font-display: clamp(2rem, 4vw, 3.4rem);
+  --font-h1: clamp(1.8rem, 3vw, 2.6rem);
+  --font-h2: clamp(1.4rem, 2vw, 1.9rem);
+  --font-body: 1rem;
+  --font-small: 0.92rem;
+}

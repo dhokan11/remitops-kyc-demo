@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemitOps.API", "RemitOps.API\RemitOps.API.csproj", "{1EB7E142-DFA6-452A-94EF-FC4538AD8AF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemitOps.Application", "RemitOps.Application\RemitOps.Application.csproj", "{CFEB1AC0-6FB2-4FAA-BC80-51142DFF46BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemitOps.Domain", "RemitOps.Domain\RemitOps.Domain.csproj", "{4094BA15-819B-446A-BF26-926963952D30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemitOps.Infrastructure", "RemitOps.Infrastructure\RemitOps.Infrastructure.csproj", "{D315219E-4DC2-4420-905E-8325D49E2980}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EB7E142-DFA6-452A-94EF-FC4538AD8AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EB7E142-DFA6-452A-94EF-FC4538AD8AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EB7E142-DFA6-452A-94EF-FC4538AD8AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EB7E142-DFA6-452A-94EF-FC4538AD8AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFEB1AC0-6FB2-4FAA-BC80-51142DFF46BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFEB1AC0-6FB2-4FAA-BC80-51142DFF46BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFEB1AC0-6FB2-4FAA-BC80-51142DFF46BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFEB1AC0-6FB2-4FAA-BC80-51142DFF46BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4094BA15-819B-446A-BF26-926963952D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4094BA15-819B-446A-BF26-926963952D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4094BA15-819B-446A-BF26-926963952D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4094BA15-819B-446A-BF26-926963952D30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D315219E-4DC2-4420-905E-8325D49E2980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D315219E-4DC2-4420-905E-8325D49E2980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D315219E-4DC2-4420-905E-8325D49E2980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D315219E-4DC2-4420-905E-8325D49E2980}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
