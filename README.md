@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Multi-tenant remittance operations and KYC review platform</strong><br/>
-  Built to demonstrate secure, observable, and maintainable fintech system design for employer review.
+  Built to demonstrate secure, observable, and maintainable fintech system design for technical review.
 </p>
 
 <p align="center">
