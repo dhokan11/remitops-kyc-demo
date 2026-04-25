@@ -24,7 +24,7 @@
 
 This repository contains a business-oriented demo platform prepared for technical and stakeholder review. It was designed as more than a simple CRUD application and instead models a multi-tenant remittance operations environment with KYC review, admin workflows, protected APIs, seeded business data, and dashboard-oriented thinking.
 
-The project was prepared for public GitHub review following Dahabshiil’s request during the interview process, and it is intended to demonstrate both implementation capability and business/domain awareness.
+The project was prepared for public GitHub review, and it is intended to demonstrate both implementation capability and business/domain awareness.
 
 ## Why this project stands out
 
